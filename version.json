@@ -1,6 +1,6 @@
 {
-  "version": "1.1.0",
-  "build": 2,
+  "version": "1.0.0",
+  "build": 1,
   "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/test/ChasterBox_v1.1.0.bin",
   "size": 2539920,
   "changelog": "Initial release\n- Basic OTA functionality\n- Chaster integration\n- Offline lock modes",
@@ -8,3 +8,4 @@
   "min_version": "1.0.0"
 
 }
+
