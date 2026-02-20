@@ -1,11 +1,12 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/test/ChasterBox_v1.1.0.bin",
-  "size": 2539920,
-  "changelog": "Initial release\n- Basic OTA functionality\n- Chaster integration\n- Offline lock modes",
+  "version": "1.0.1",
+  "build": 2,
+  "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/test/ChasterBox_v1.0.1.bin",
+  "size": 2580816,
+  "changelog": "Fixed a Bug where Chaster authentification faild after a certain time and could not be reauthenticated without restart",
   "mandatory": false,
   "min_version": "1.0.0"
 
 }
+
 
