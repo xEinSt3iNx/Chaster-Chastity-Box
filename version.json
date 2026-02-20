@@ -2,11 +2,12 @@
   "version": "1.0.1",
   "build": 2,
   "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/test/ChasterBox_v1.0.1.bin",
-  "size": 2580816,
+  "size": 2584576,
   "changelog": "Fixed a Bug where Chaster authentification faild after a certain time and could not be reauthenticated without restart",
   "mandatory": false,
   "min_version": "1.0.0"
 
 }
+
 
 
