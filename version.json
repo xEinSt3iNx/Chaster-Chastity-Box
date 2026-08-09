@@ -3,20 +3,7 @@
   "build": 2,
   "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/v2.0.0/ChasterLockBox.bin",
   "size": 1752640,
-  "changelog": "This release introduces a fully redesigned user interface with improved contrast, cleaner layouts, and smoother navigation throughout the app. Several bugs have been fixed. Offline locks now contain features like "Wheel of Fortune" and "Dice".",
+  "changelog": "This release introduces a fully redesigned user interface with improved contrast, cleaner layouts, and smoother navigation throughout the app. Several bugs have been fixed. Offline locks now contain features like 'Wheel of Fortune' and 'Dice'.",
   "mandatory": false,
   "min_version": "0.0.0"
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
