@@ -1,9 +1,9 @@
 {
-  "version": "2.1.0",
-  "build": 3,
-  "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/v2.1.0/ChasterLockBox.bin",
-  "size": 1783152,
-  "changelog": "Display standby: the backlight now switches off after an adjustable time and wakes on touch. WiFi password entry got a dedicated OK button, and the box retries the WiFi connection during boot instead of giving up after one attempt. A factory reset now asks for the emergency PIN while a lock is active. The emergency PIN can be generated randomly and confirms when saved. The update check is more robust.",
+  "version": "2.2.0",
+  "build": 4,
+  "url": "https://github.com/xEinSt3iNx/Chaster-Chastity-Box/releases/download/v2.2.0/ChasterLockBox.bin",
+  "size": 1784336,
+  "changelog": "An active Chaster lock is now tied to the account it belongs to: logging out and signing in with a different account no longer releases the box. The login is refused, the display names the account required, and the QR login stays ready for another try. Logging out during an active lock asks for confirmation first. Without an active lock the account can still be switched freely. Text is larger throughout for legibility, and the layouts were reworked to match: popups size themselves to their content and share one spacing scale. Timers now mark days with a d, for example 5d 12:34:56. Setup: every step is left with the Next button, apply actions confirm with a popup, the Chaster step is skipped without WiFi, and the emergency PIN must be saved before continuing. Online time sync reports the timezone it actually detected. The keyboard hide key no longer cancels WiFi password entry. Waking the display no longer risks a restart.",
   "mandatory": false,
   "min_version": "0.0.0"
 }
